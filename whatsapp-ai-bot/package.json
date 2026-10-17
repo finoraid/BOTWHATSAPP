@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-ai-bot-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WhatsApp Cloud API webhook for AI assistant and downloader",
+  "dependencies": {
+    "@vercel/functions": "^2.0.0"
+  }
+}
